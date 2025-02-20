@@ -1,7 +1,7 @@
 # ETL and Big Data Processing Project
 
 ## Overview
-This project focuses on the fundamental concepts of ETL (Extract, Transform, Load) in Big Data environments. It provides a comprehensive understanding of how to extract, transform, and load large volumes of data from external sources into analytical systems like Tableau. The project aims to analyze gender inequality worldwide using dashboards built from processed data.
+This project focuses on the fundamental concepts of ETL (Extract, Transform, Load) in Big Data environments. It provides a comprehensive understanding of how to extract, transform, and load large volumes of data from external sources into analytical systems like Tableau. The project aims to analyze gender inequality and mental health between men and women worldwide using dashboards built from processed data.
 
 ## Technologies Used
 - **Containers**: For scalable and portable deployment
@@ -15,6 +15,25 @@ This project focuses on the fundamental concepts of ETL (Extract, Transform, Loa
 - **Data Transformation**: Clean, preprocess, and format the data for analysis
 - **Data Loading**: Store the processed data in Hadoop HDFS and make it available for analysis
 - **Data Analysis & Visualization**: Use Apache Spark for processing and Tableau for dashboard creation
+
+## Dashboards
+
+### Gender Inequality Analysis Dashboard
+![Gender Inequality Dashboard](images/gender_inequality_dashboard.png)
+
+### Data Distribution Overview
+![Data Distribution](images/data_distribution.png)
+
+### Suicides By Income
+
+### Student Mental Health
+
+### Mental Health Benefits Between USA and Europe
+
+### Index of Inequality
+
+
+
 
 ## How to Run
 1. Set up the required environment using containers
