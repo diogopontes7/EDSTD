@@ -9,6 +9,7 @@ This project focuses on the fundamental concepts of ETL (Extract, Transform, Loa
 - **Apache Spark**: Distributed data processing
 - **Hadoop HDFS**: Distributed file system for large-scale data storage
 - **Tableau**: Data visualization and dashboard creation
+- **Python**: Programming Language utilized to create the logic
 
 ## Project Scope
 - **Data Extraction**: Collect data from multiple external sources related to gender inequality
@@ -19,18 +20,19 @@ This project focuses on the fundamental concepts of ETL (Extract, Transform, Loa
 ## Dashboards
 
 ### Gender Inequality Analysis Dashboard
-![Gender Inequality Dashboard](images/gender_inequality_dashboard.png)
-
-### Data Distribution Overview
-![Data Distribution](images/data_distribution.png)
-
-### Suicides By Income
-
-### Student Mental Health
+[![Gender Inequality Dashboard](DashBoards/IndexDesigualdade.png)]
 
 ### Mental Health Benefits Between USA and Europe
+[![Mental Health Benefits](DashBoards/BeneficiosEuropaAmerica.png)]
 
-### Index of Inequality
+### Suicides By Income
+[![Suicide By Income](DashBoards/IncomeSuicide.png)]
+
+### Student Mental Health
+[![Student Mental Health](DashBoards/StudentMentalhealth.png)]
+
+### Gender Inequality Associated With Country Development Index
+[![Country_Development](DashBoards/IndexPorDesenvolvimentoHumano.png)]
 
 
 
