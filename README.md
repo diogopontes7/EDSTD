@@ -20,19 +20,19 @@ This project focuses on the fundamental concepts of ETL (Extract, Transform, Loa
 ## Dashboards
 
 ### Gender Inequality Analysis Dashboard
-[![Gender Inequality Dashboard](DashBoards/IndexDesigualdade.png)]
+![Gender Inequality Dashboard](DashBoards/IndexDesigualdade.png)
 
 ### Mental Health Benefits Between USA and Europe
-[![Mental Health Benefits](DashBoards/BeneficiosEuropaAmerica.png)]
+![Mental Health Benefits](DashBoards/BeneficiosEuropaAmerica.png)
 
 ### Suicides By Income
-[![Suicide By Income](DashBoards/IncomeSuicide.png)]
+![Suicide By Income](DashBoards/IncomeSuicide.png)
 
 ### Student Mental Health
-[![Student Mental Health](DashBoards/StudentMentalhealth.png)]
+![Student Mental Health](DashBoards/StudentMentalhealth.png)
 
 ### Gender Inequality Associated With Country Development Index
-[![Country_Development](DashBoards/IndexPorDesenvolvimentoHumano.png)]
+![Country_Development](DashBoards/IndexPorDesenvolvimentoHumano.png)
 
 
 
